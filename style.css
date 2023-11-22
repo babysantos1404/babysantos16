@@ -1,21 +1,12 @@
 body {
-    background: #cccccc
-}
-
-h1{
-    text-align: center
+    background: #d4cbcb
 }
 
 p{
     text-align: center;
-    columns: #FF0000
-}
-
-#missão{
-    font-size: 20px;
+    color: midnightblue;
 }
 
 em strong {
-    color: #FF0000;
+    color: #1100ff;
 }
-
